@@ -18,5 +18,8 @@ public class CardDealer {
         
         System.out.println(c1.getSuit());
         System.out.println(c1.getValue());
+        Card c2=new Card();
+        c2.setSuit("Clubs");
+        c2.setValue(7);
     }
 }
