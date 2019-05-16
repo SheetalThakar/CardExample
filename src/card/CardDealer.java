@@ -18,7 +18,5 @@ public class CardDealer {
         
         System.out.println(c1.getSuit());
         System.out.println(c1.getValue());
-        
-        System.out.println("Card Generated");
     }
 }
